@@ -1,5 +1,5 @@
 # LitePlacer-Project
- My Lightplacer build of February 2021
+ My Lightplacer build of January 2021
 
 Build notes in no particular order:
 
