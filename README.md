@@ -7,6 +7,7 @@ The cable, 24 AWG shielded was selected for its size and flexibility.  They use 
 The X and Y limit switches use one cable each, saving 2 cables in the chain.  The cable easily handles the current draw from the motors without getting warm.
 
 The TinyG enclosure was found on a 3D print website and mounts easily to the frame of the Lightplacer.  This keeps the cables short and manageable.
+https://www.thingiverse.com/thing:745369
 
 I fabricated a pc board to hold 2 mosfets and 2 diodes for driving the vacuum and solenoid valve.  The mosfets I used were massively overspeced but I use them in other products and had them is stock.  There are many others in an SO8 package that would work fine.
 This board is shared on OshPark.
